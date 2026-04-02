@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # LeanLaw – Minimal Macro Tracker (React Native + SQLite)
 
 ## Идея
@@ -42,17 +44,20 @@ SQLite се използва чрез `expo-sqlite` за локално съхр
 ## Setup / Run
 
 ### Изисквания:
+
 - Node 18+
 - Expo CLI
 - Android device / emulator
 
 ### Инсталация:
+
 ```bash
 npm install
 npm start
 ```
 
 ### Стартиране на устройство:
+
 - Инсталирайте Expo Go
 - Сканирайте QR кода или използвайте USB debug
 
@@ -78,3 +83,4 @@ npm test
 
 LeanLaw – курсов проект за дисциплина Мобилни Приложения, СИ 3 курс, 2025.  
 Разработено от: Стоил Седянков, ФН: 2301321042
+=======
