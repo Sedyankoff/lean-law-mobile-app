@@ -79,12 +79,6 @@ npx expo start
 
 ---
 
-## APK
-
-/apk/app-release.apk
-
----
-
 ## Автор
 
 Стоил Седянков
