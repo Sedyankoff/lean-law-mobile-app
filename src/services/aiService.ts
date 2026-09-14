@@ -3,7 +3,7 @@ import type {
     MacroSuggestionsResponse,
 } from "../types/ai";
 
-const API_BASE_URL = "http://192.168.1.5:3001";
+const API_BASE_URL = "http://10.13.16.112:3001";
 
 export async function getMacroSuggestions(
   payload: MacroSuggestionsRequest,
